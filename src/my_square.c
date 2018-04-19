@@ -8,7 +8,7 @@ int sq(int n)
 //This is the driver function for the code
 int main()
 {
-  int a=4;
+  int a=43;
   int r=sq(a);
   printf("%d\n",r);
 
