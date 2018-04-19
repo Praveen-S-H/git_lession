@@ -6,5 +6,3 @@ This is the thisrd change to the file.
 
 Git is a version controle system that prevents us from having 'final doc' probelm.
 
-This the commit that I am not aware of, or one that i have forgotten about
-
