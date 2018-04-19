@@ -10,7 +10,6 @@ int main()
 {
   int a=43;
   int x=a;
-  int a=43;
   int r=sq(a);
   printf("%d\n",r);
 
