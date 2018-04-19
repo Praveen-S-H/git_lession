@@ -7,7 +7,7 @@ int sq(int n)
 }
 int main()
 {
-  int a=3;
+  int a=4;
   int r=sq(a);
   printf("%d\n",r);
 
